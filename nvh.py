@@ -2,7 +2,7 @@ from PyQt6.QtWidgets import QMainWindow, QApplication, QPushButton, QLabel, QGri
 from PyQt6.QtCore import Qt
 import numpy as np
 import pandas as pd
-
+#sđfdfdfdfdfd
 class MainWindow (QMainWindow):
 
     def __init__(self):
